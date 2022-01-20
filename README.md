@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📧 Contect : bada7144@gamil.com  
+📧 Contact : bada7144@gmail.com  
 💻 Tech blog : 
 <a href="https://bada744.tistory.com/">
     <img 
