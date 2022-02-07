@@ -10,7 +10,9 @@
 
 ![haehyun-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=haehyun-lee&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haehyun-lee&layout=compact&theme=tokyonight&langs_count=5&hide=aidl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haehyun-lee&layout=compact&theme=tokyonight&langs_count=5&hide=aidl)  
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bada744)](https://solved.ac/bada744)
 
 <!--
 📂 Portfolio : 
