@@ -17,6 +17,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200.svg?&style=for-the-badge&logo=devexpress&logoColor=white)
+
 ## Tools
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
